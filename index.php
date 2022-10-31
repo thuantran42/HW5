@@ -8,12 +8,6 @@
 
  
 
-    <?php
-
-    
-
-  </tbody>
-    </table>
     <h1>Time to go on an adventure! Huzzah!</h1>
    <img src="https://i.redd.it/d20v9moivmh71.jpg" alt="Huzzah Man" style="height:500px;" /> <!-- image pointer-->
     
