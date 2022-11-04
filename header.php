@@ -28,8 +28,11 @@
           </a>
           <ul class="dropdown-menu">
             
-            <li><a class="dropdown-item" href="javascript.html">Javascript Function</a></li>
-            <li><a class="dropdown-item" href="">Put something here</a></li>
+            <li><a class="dropdown-item" href="javascript.html">Javascript Function 1</a></li>
+            <li><a class="dropdown-item" href="javascript2.html">Javascript Function 2</a></li>
+            <li><a class="dropdown-item" href="javascript3.html">Javascript Function 3</a></li>
+            <li><a class="dropdown-item" href="javascript4.html">Javascript Function 4</a></li>
+            <li><a class="dropdown-item" href="javascript5.html">Javascript Function 5</a></li>
           
             
           </ul>
